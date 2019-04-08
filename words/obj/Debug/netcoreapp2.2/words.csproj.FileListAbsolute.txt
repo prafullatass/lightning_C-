@@ -1,0 +1,11 @@
+C:\Users\prafu\workspace\csharp\exercises\lightning\words\obj\Debug\netcoreapp2.2\words.csprojAssemblyReference.cache
+C:\Users\prafu\workspace\csharp\exercises\lightning\words\obj\Debug\netcoreapp2.2\words.csproj.CoreCompileInputs.cache
+C:\Users\prafu\workspace\csharp\exercises\lightning\words\obj\Debug\netcoreapp2.2\words.AssemblyInfoInputs.cache
+C:\Users\prafu\workspace\csharp\exercises\lightning\words\obj\Debug\netcoreapp2.2\words.AssemblyInfo.cs
+C:\Users\prafu\workspace\csharp\exercises\lightning\words\bin\Debug\netcoreapp2.2\words.deps.json
+C:\Users\prafu\workspace\csharp\exercises\lightning\words\bin\Debug\netcoreapp2.2\words.runtimeconfig.json
+C:\Users\prafu\workspace\csharp\exercises\lightning\words\bin\Debug\netcoreapp2.2\words.runtimeconfig.dev.json
+C:\Users\prafu\workspace\csharp\exercises\lightning\words\bin\Debug\netcoreapp2.2\words.dll
+C:\Users\prafu\workspace\csharp\exercises\lightning\words\bin\Debug\netcoreapp2.2\words.pdb
+C:\Users\prafu\workspace\csharp\exercises\lightning\words\obj\Debug\netcoreapp2.2\words.dll
+C:\Users\prafu\workspace\csharp\exercises\lightning\words\obj\Debug\netcoreapp2.2\words.pdb
