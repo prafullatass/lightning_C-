@@ -1,0 +1,11 @@
+C:\Users\prafu\workspace\csharp\exercises\lightning\ariana\obj\Debug\netcoreapp2.2\ariana.csprojAssemblyReference.cache
+C:\Users\prafu\workspace\csharp\exercises\lightning\ariana\obj\Debug\netcoreapp2.2\ariana.csproj.CoreCompileInputs.cache
+C:\Users\prafu\workspace\csharp\exercises\lightning\ariana\obj\Debug\netcoreapp2.2\ariana.AssemblyInfoInputs.cache
+C:\Users\prafu\workspace\csharp\exercises\lightning\ariana\obj\Debug\netcoreapp2.2\ariana.AssemblyInfo.cs
+C:\Users\prafu\workspace\csharp\exercises\lightning\ariana\bin\Debug\netcoreapp2.2\ariana.deps.json
+C:\Users\prafu\workspace\csharp\exercises\lightning\ariana\bin\Debug\netcoreapp2.2\ariana.runtimeconfig.json
+C:\Users\prafu\workspace\csharp\exercises\lightning\ariana\bin\Debug\netcoreapp2.2\ariana.runtimeconfig.dev.json
+C:\Users\prafu\workspace\csharp\exercises\lightning\ariana\bin\Debug\netcoreapp2.2\ariana.dll
+C:\Users\prafu\workspace\csharp\exercises\lightning\ariana\bin\Debug\netcoreapp2.2\ariana.pdb
+C:\Users\prafu\workspace\csharp\exercises\lightning\ariana\obj\Debug\netcoreapp2.2\ariana.dll
+C:\Users\prafu\workspace\csharp\exercises\lightning\ariana\obj\Debug\netcoreapp2.2\ariana.pdb

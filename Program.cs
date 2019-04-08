@@ -32,6 +32,8 @@ namespace lightning
 
                 //Other Way to Write
                 Console.WriteLine($"{idiom.Key} : {String.Join(" ", idiom.Value)} ");
+
+    
             }
         }
     }
