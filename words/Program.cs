@@ -23,7 +23,8 @@ namespace words
             {
                 Console.WriteLine($"The defination of {word.Key} is {word.Value}.");
             }
-
+            wordsAndDefinitions.ToList()
+            .ForEach(w => Console.WriteLine($"The definition of {w.Key} is {w.Value}."));
         }
     }
 }
